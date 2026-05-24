@@ -1,13 +1,9 @@
-<div align="center">
-Hi, I'm Samrakshyan Khadka 👋
+Hi there, I'm Samrakshyan Khadka 👋
 Coder · Robotics Enthusiast · Aspiring AI/ML Engineer
 📍 Kathmandu, Nepal — on my way to Australia 🇦🇺
-Show Image
-Show Image
-</div>
 
 🧠 About Me
-pythonsamrakshyan = {
+samrakshyan = {
     "name"      : "Samrakshyan Khadka",
     "location"  : "Kathmandu, Nepal 🇳🇵",
     "goal"      : "Study AI/ML + Business in Australia 🇦🇺",
@@ -15,21 +11,6 @@ pythonsamrakshyan = {
     "currently" : "Building my AI/ML portfolio & preparing for university",
     "fun_fact"  : "I built a self-balancing robot before finishing high school 🤖"
 }
-
-🛠️ Skills & Tools
-Languages
-Show Image
-Show Image
-Show Image
-Hardware & Platforms
-Show Image
-Show Image
-Show Image
-Learning Now
-Show Image
-Show Image
-Show Image
-
 🚀 Featured Projects
 🤖 Self-Balancing PID Platform
 
@@ -51,14 +32,6 @@ A background automation tool built in C#/.NET that automatically catches Pokémo
 🔄 Runs continuously with minimal CPU usage
 📊 Live session stats — tracks catches, encounters, and runtime
 ⚡ Real-time screen detection and input simulation
-
-
-📈 GitHub Stats
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
 
 🗺️ My Journey
 2025  ──► Grade 12 completed (A grade) 🎓
@@ -86,12 +59,4 @@ Show Image
 
 
 🤝 Let's Connect
-<div align="center">
-Show Image
-Show Image
 Open to collaborations, project ideas, and connecting with fellow developers!
-</div>
-
-<div align="center">
-⭐ If you find my projects interesting, drop a star — it means a lot! ⭐
-</div>
