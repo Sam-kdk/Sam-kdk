@@ -12,7 +12,7 @@
 samrakshyan = {
     "name"      : "Samrakshyan Khadka",
     "location"  : "Kathmandu, Nepal",
-    "goal"      : "Study AI/ML + Business in Australia",
+    "goal"      : "Study AI/ML + Business",
     "interests" : ["Machine Learning", "Robotics", "Control Systems", "Data Science"],
     "currently" : "Building my AI/ML portfolio & preparing for university",
     "fun_fact"  : "I built a self-balancing robot before finishing high school"
